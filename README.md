@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I’m Gaurav 👋
 
-<!--
-**GauJosh/GauJosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Staff-level Platform & Cloud Architect focused on Kubernetes platforms, CI/CD, DevSecOps, and reliability engineering across Azure and AWS.
 
-Here are some ideas to get you started:
+## What I work on
+- Platform engineering and internal developer platforms (IDP)
+- Kubernetes (AKS/EKS), GitOps (ArgoCD/FluxCD), and CI/CD systems
+- Observability, incident readiness, and cost governance
+- AI-assisted operations and diagnostics (Azure OpenAI, Copilot, MCP workflows)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Core technologies
+Azure • AWS • Kubernetes • ArgoCD/FluxCD • GitHub Actions • Terraform • Ansible • Prometheus/Grafana • Security-by-design
+
+## Selected Work
+
+### Platform Engineering Initiatives
+- Standardized CI/CD workflows across teams using GitHub Actions and shared Python libraries.
+- Implemented GitOps delivery models using ArgoCD/FluxCD.
+- Designed infrastructure automation patterns with Terraform and Ansible.
+
+### AI & Automation
+- Integrated Azure OpenAI into operational workflows for deployment failure analysis.
+- Built context-aware automation using Model Context Protocol (MCP).
+
+### Cloud Architecture
+- Led migration and modernization initiatives across Azure and AWS environments.
+
+## Selected OSS discussions / issues
+- ArgoCD / Kubernetes / platform troubleshooting
+- Falco / runtime security topics
+- Azure SDK operational issues
