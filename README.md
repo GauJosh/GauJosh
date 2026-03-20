@@ -19,8 +19,8 @@ Azure • AWS • Kubernetes • ArgoCD/FluxCD • GitHub Actions • Terraform 
 - Designed infrastructure automation patterns with Terraform and Ansible.
 
 ### AI & Automation
-- Integrated Azure OpenAI into operational workflows for deployment failure analysis.
-- Built context-aware automation using Model Context Protocol (MCP).
+- Built a production-style GenAI platform prototype for CI/CD failure analysis using RAG, vector search, and structural inference workflows
+- Implemented metadata-aware log ingestion and multi-model inference routing (OpenAI / local LLM / fallbask) deployed on Kubernetes with observability (Prometheus + Grafana)
 
 ### Cloud Architecture
 - Led migration and modernization initiatives across Azure and AWS environments.
@@ -29,3 +29,9 @@ Azure • AWS • Kubernetes • ArgoCD/FluxCD • GitHub Actions • Terraform 
 - ArgoCD / Kubernetes / platform troubleshooting
 - Falco / runtime security topics
 - Azure SDK operational issues
+
+## Certifications
+- Certified Kubernetes Administrator (CKA)
+- Certified Kubernetes Application Developer (CKAD)
+- Microsoft Certified: Azure Administrator Associate
+- Microsoft Certified: Azure Security Engineer Associate
