@@ -1,12 +1,12 @@
 # Hi, I’m Gaurav 👋
 
-Staff-level Platform & Cloud Architect focused on Kubernetes platforms, CI/CD, DevSecOps, and reliability engineering across Azure and AWS.
+Staff-level Platform & Cloud Architect focused on Kubernetes platforms, CI/CD, DevSecOps, and AI-assisted operational diagnostics across Azure and AWS.
 
 ## What I work on
 - Platform engineering and internal developer platforms (IDP)
-- Kubernetes (AKS/EKS), GitOps (ArgoCD/FluxCD), and CI/CD systems
+- Kubernetes (AKS/EKS), GitOps (ArgoCD/FluxCD), CI/CD systems, and reliability engineering
 - Observability, incident readiness, and cost governance
-- AI-assisted operations and diagnostics (Azure OpenAI, Copilot, MCP workflows)
+- AI-assisted diagnostics and AI platform patterns for operational workflows (Azure OpenAI, Copilot, MCP workflows, OpenAI, Ollama)
 
 ## Core technologies
 Azure • AWS • Kubernetes • ArgoCD/FluxCD • GitHub Actions • Terraform • Ansible • Prometheus/Grafana • Security-by-design
