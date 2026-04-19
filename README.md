@@ -35,3 +35,4 @@ Azure • AWS • Kubernetes • ArgoCD/FluxCD • GitHub Actions • Terraform 
 - Certified Kubernetes Application Developer (CKAD)
 - Microsoft Certified: Azure Administrator Associate
 - Microsoft Certified: Azure Security Engineer Associate
+- Microsoft Certified: GitHub Actions (GH-200)
