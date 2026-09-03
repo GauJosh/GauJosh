@@ -25,6 +25,14 @@ Azure • AWS • Kubernetes • ArgoCD/FluxCD • GitHub Actions • Terraform 
 ### Cloud Architecture
 - Led migration and modernization initiatives across Azure and AWS environments.
 
+## Side projects
+
+### 🏃 [Echo Runner](https://github.com/GauJosh/echo-runner) — [play it live](https://gaujosh.github.io/echo-runner/)
+A one-button endless runner, built end-to-end as a fast, AI-assisted side
+project: game design and physics, a `<canvas>`-only art pipeline (zero image
+assets), and a full CI/CD story — lint, headless-browser smoke tests, and
+GitHub Actions deploying straight to GitHub Pages on every push to `main`.
+
 ## Selected OSS discussions / issues
 - ArgoCD / Kubernetes / platform troubleshooting
 - Falco / runtime security topics
